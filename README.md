@@ -37,6 +37,14 @@ Environment Management: Python-Dotenv
 5. Run the App:
     python LinearRegression.py
 
+<img width="403" height="278" alt="1" src="https://github.com/user-attachments/assets/0c586c4e-778e-4d30-9c27-329b003ac445" />
+
+<img width="400" height="275" alt="2" src="https://github.com/user-attachments/assets/a1053a47-2a33-4499-b56a-844fa122fe0f" />
+
+<img width="250" height="153" alt="3" src="https://github.com/user-attachments/assets/7cafb0aa-a96c-45f6-ad21-3e721bd8dfb2" />
+
+
+
 Author
 Muzammil Ansari Computer Science Student at DUET
 
